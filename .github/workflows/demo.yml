@@ -9,4 +9,4 @@ jobs:
         -name: Print a few lines
           run: |
             echo first line
-            echp second line
+            echo second line
