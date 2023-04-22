@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print to cinsile
         run: echo Hello GH Actions!
-      -name: Print a few lines
+      - name: Print a few lines
         run: |
           echo first line
           echo second line
